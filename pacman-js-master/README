@@ -2,7 +2,7 @@
 
 Dette er et enkelt Pacman-spill laget med JavaScript.
 
-![Pacman Image](pacman-js-master/eksempelbildet.jpeg)
+![Pacman Image](eksempelbildet.jpeg)
 
 ## Hvordan spille
 Bruk piltastene for å kontrollere Pacman.
